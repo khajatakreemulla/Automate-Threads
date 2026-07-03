@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Threads Auto-Poster Queue</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, system-ui, sans-serif;
+    max-width: 640px;
+    margin: 40px auto;
+    padding: 0 16px;
+    line-height: 1.5;
+  }
+  h1 { font-size: 1.4rem; }
+  .card {
+    border: 1px solid #8884;
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+  }
+  .posted { opacity: 0.55; }
+  .badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 999px;
+    margin-bottom: 6px;
+  }
+  .badge.pending { background: #f59e0b33; color: #b45309; }
+  .badge.done { background: #10b98133; color: #047857; }
+  .meta { font-size: 0.8rem; opacity: 0.7; margin-top: 6px; }
+  #status { opacity: 0.7; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+  <h1>🧵 Threads Auto-Poster Queue</h1>
+  <p id="status">Loading posts.json…</p>
+  <div id="list"></div>
+
+  <script>
+    // Fetches posts.json from the same repo (works once published via GitHub Pages)
+    fetch("posts.json?_=" + Date.now())
+      .then((r) => r.json())
+      .then((posts) => {
+        const list = document.getElementById("list");
+        const pending = posts.filter((p) => !p.posted).length;
+        const done = posts.filter((p) => p.posted).length;
+        document.getElementById("status").textContent =
+          `${done} posted · ${pending} pending`;
+
+        posts.forEach((p) => {
+          const card = document.createElement("div");
+          card.className = "card" + (p.posted ? " posted" : "");
+          card.innerHTML = `
+            <span class="badge ${p.posted ? "done" : "pending"}">
+              ${p.posted ? "Posted" : "Pending"}
+            </span>
+            <div>${p.text}</div>
+            <div class="meta">
+              #${p.id}${p.postedAt ? " · " + new Date(p.postedAt).toLocaleString() : ""}
+            </div>
+          `;
+          list.appendChild(card);
+        });
+      })
+      .catch((e) => {
+        document.getElementById("status").textContent =
+          "Couldn't load posts.json — is GitHub Pages enabled on this repo?";
+      });
+  </script>
+</body>
+</html>

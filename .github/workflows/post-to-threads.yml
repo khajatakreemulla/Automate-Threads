@@ -1,0 +1,35 @@
+name: Post to Threads
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours, on the hour
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Post next queued item
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: node scripts/post-to-threads.js
+
+      - name: Commit updated queue
+        run: |
+          git config user.name "threads-bot"
+          git config user.email "actions@github.com"
+          git add posts.json
+          git diff --cached --quiet || git commit -m "chore: mark post as sent [skip ci]"
+          git push

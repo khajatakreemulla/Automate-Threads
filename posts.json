@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "text": "This is my first automated Threads post 🚀",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "002",
+    "text": "Second post in the queue. Replace these with your own content!",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "003",
+    "text": "Posts go out in order, one every 4 hours, oldest unposted first.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  }
+]
