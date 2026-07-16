@@ -1,1260 +1,416 @@
 [
   {
     "id": "001",
-    "text": "Patience is the real leverage in this game. One good decision repeated daily builds real momentum.\n\n#TradingMindset #TradingJourney #FinancialFreedom #MoneyMindset",
-    "posted": true,
-    "postedAt": "2026-07-03T05:01:19.152Z",
-    "threadId": "18051974957780017"
+    "category": "question",
+    "text": "Do you journal every trade, or only the losses you're trying to understand?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "002",
-    "text": "Consistency compounds. Chase process, not profit. Every red day is data, not a verdict on your worth.\n\n#TraderLife #MoneyMindset #TradingMotivation #WealthBuilding",
-    "posted": true,
-    "postedAt": "2026-07-03T14:33:42.046Z",
-    "threadId": "18124996705709275"
+    "category": "story",
+    "text": "Took 11 trades last month. 4 winners, 7 losers, still net positive because I cut losers fast and let winners run.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "003",
-    "text": "The market rewards patience, not impulse. Stick to your risk plan even when the setup looks tempting.\n\n#TradingMotivation #MarketMindset #FinancialFreedom #TradingDiscipline",
-    "posted": true,
-    "postedAt": "2026-07-03T17:50:13.702Z",
-    "threadId": "18086493038635854"
+    "category": "story",
+    "text": "Went 3 weeks without a single trade because nothing met my criteria. That was the hardest discipline test I've had.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "004",
-    "text": "The chart doesn't care how you feel about it. Stick to your risk plan even when the setup looks tempting.\n\n#MoneyMindset #MarketMindset #SmartTrading #WealthBuilding",
-    "posted": true,
-    "postedAt": "2026-07-03T21:33:50.113Z",
-    "threadId": "18097381457213174"
+    "category": "question",
+    "text": "How many losing trades in a row before you start doubting your whole strategy?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "005",
-    "text": "Small disciplined wins beat one reckless home run. Review your losses as closely as your wins.\n\n#TraderMindset #TradingJourney #TradingMindset #TradingPsychology",
-    "posted": true,
-    "postedAt": "2026-07-04T04:04:03.179Z",
-    "threadId": "18120940054767261"
+    "category": "contrarian",
+    "text": "The traders who talk the most about discipline online are usually the ones who need to hear it the most.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "006",
-    "text": "Your worst enemy in trading is your own impatience. Small, steady gains outlast big, reckless swings.\n\n#TrendFollowing #TradingJourney #RiskManagement #MarketMindset",
-    "posted": true,
-    "postedAt": "2026-07-04T07:16:52.307Z",
-    "threadId": "18135392113571546"
+    "category": "poll",
+    "text": "Do you trade with a hard stop loss order, or a mental stop you execute manually? Both have tradeoffs.\n\n#TradingCommunity #TraderMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "007",
-    "text": "Trade the plan, not the emotion of the moment. Wait for the setup to confirm before you commit capital.\n\n#TraderLife #TradingMotivation #TradingTips #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-04T10:26:57.569Z",
-    "threadId": "18062394170738626"
+    "category": "contrarian",
+    "text": "Most \"trading psychology\" content is just repackaged advice for people who haven't fixed their strategy yet.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "008",
-    "text": "Your journal is your best trading coach. Let the setup come to you instead of forcing an entry.\n\n#PriceAction #TradingJourney #ForexLife #TradingCommunity",
-    "posted": true,
-    "postedAt": "2026-07-04T14:01:02.532Z",
-    "threadId": "17931325368347169"
+    "category": "poll",
+    "text": "News-driven trades or pure technical setups \u2014 which actually pays your bills?\n\n#TradingCommunity #TraderMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "009",
-    "text": "Stop chasing candles — start following your plan. One good decision repeated daily builds real momentum.\n\n#TradingTips #TradingMotivation #MoneyMindset #DisciplineWins",
-    "posted": true,
-    "postedAt": "2026-07-04T17:28:56.924Z",
-    "threadId": "18071074175371867"
+    "category": "contrarian",
+    "text": "If your strategy only works on one timeframe, you don't have a strategy \u2014 you have a pattern you noticed once.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "010",
-    "text": "Cutting a loss early is a win in disguise. Trust the process even when the market tests your patience.\n\n#SmartTrading #PriceAction #MarketMindset #TradingMotivation",
-    "posted": true,
-    "postedAt": "2026-07-04T21:15:02.453Z",
-    "threadId": "18107661775797366"
+    "category": "question",
+    "text": "Is revenge trading a discipline problem or a psychology problem for you?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "011",
-    "text": "The market rewards patience, not impulse. Trust the process even when the market tests your patience.\n\n#FinancialFreedom #DisciplineWins #TradingMotivation #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-05T04:31:51.809Z",
-    "threadId": "17955854265158450"
+    "category": "myth",
+    "text": "\"Cut losses fast, let winners run\" sounds simple until you're actually in the trade and your brain does the opposite of both.\n\n#TradingTips #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "012",
-    "text": "The chart rewards preparation, not prediction. One good decision repeated daily builds real momentum.\n\n#TradingTips #TradingJourney #TradingCommunity #PriceAction",
-    "posted": true,
-    "postedAt": "2026-07-05T10:29:27.514Z",
-    "threadId": "18072142694370175"
+    "category": "story",
+    "text": "My biggest win this year came from a setup I almost skipped because it looked \"too obvious.\"\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "013",
-    "text": "The best trade you make is sometimes the one you skip. Wait for the setup to confirm before you commit capital.\n\n#PriceAction #MarketMindset #TradingJourney #TradingMotivation",
-    "posted": true,
-    "postedAt": "2026-07-05T14:11:23.456Z",
-    "threadId": "18094903745611303"
+    "category": "fill_blank",
+    "text": "The setup you take the most confidently: ___\n\n#TradingCommunity #ForexLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "014",
-    "text": "The chart doesn't care how you feel about it. Trust the process even when the market tests your patience.\n\n#TradingPsychology #MoneyMindset #FinancialFreedom #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-05T17:33:03.772Z",
-    "threadId": "18027763601835710"
+    "category": "story",
+    "text": "Sized a position too big out of overconfidence last week. Small account, big lesson, cheap tuition.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "015",
-    "text": "Master your emotions before you master the charts. Small, steady gains outlast big, reckless swings.\n\n#TradingJourney #MoneyMindset #FinancialFreedom #TrendFollowing",
-    "posted": true,
-    "postedAt": "2026-07-05T21:29:00.033Z",
-    "threadId": "18097938068465344"
+    "category": "fill_blank",
+    "text": "Finish this sentence: \"I stopped losing money when I stopped ___.\"\n\n#TradingCommunity #ForexLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "016",
-    "text": "Cutting a loss early is a win in disguise. Consistency in position sizing protects you from yourself.\n\n#ForexLife #FinancialFreedom #SmartTrading #TrendFollowing",
-    "posted": true,
-    "postedAt": "2026-07-06T04:41:55.214Z",
-    "threadId": "18009019604927339"
+    "category": "confession",
+    "text": "Honestly, my journal is 80% about my mindset and only 20% about the actual setups. That ratio used to be reversed.\n\n#TradingPsychology #TradingMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "017",
-    "text": "Cut losses fast, let winners breathe. A calm exit is worth more than a lucky entry.\n\n#TradingMotivation #MarketMindset #TrendFollowing #TraderMindset",
-    "posted": true,
-    "postedAt": "2026-07-06T12:15:11.084Z",
-    "threadId": "18015430175911305"
+    "category": "question",
+    "text": "What's your biggest edge \u2014 is it your entries, your exits, or your risk sizing?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "018",
-    "text": "Patience is the real leverage in this game. Review your losses as closely as your wins.\n\n#TradingTips #TradingCommunity #RiskManagement #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-06T15:57:10.773Z",
-    "threadId": "17949632451016134"
+    "category": "story",
+    "text": "First year trading I blew two accounts. Third year I'm finally consistent. Nobody talks about years one and two enough.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "019",
-    "text": "Consistency compounds. Chase process, not profit. Journaling every entry and exit sharpens your edge over time.\n\n#MoneyMindset #SmartTrading #TradingJourney #WealthBuilding",
-    "posted": true,
-    "postedAt": "2026-07-06T18:21:49.480Z",
-    "threadId": "17884775196436770"
+    "category": "question",
+    "text": "What single change to your process made the biggest difference to your results?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "020",
-    "text": "Volatility is opportunity for the prepared mind. Respect your stop loss like it's non-negotiable.\n\n#TradingTips #PriceAction #FinancialFreedom #RiskManagement",
-    "posted": true,
-    "postedAt": "2026-07-06T21:48:51.520Z",
-    "threadId": "18142519726526567"
+    "category": "story",
+    "text": "Reviewed my last 50 trades. My win rate is only 38% but I'm still profitable. Here's why that math works.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "021",
-    "text": "Great traders are built in drawdowns, not rallies. Review your losses as closely as your wins.\n\n#TradingMotivation #ForexLife #TraderLife #RiskManagement",
-    "posted": true,
-    "postedAt": "2026-07-07T04:18:27.957Z",
-    "threadId": "18040690757797086"
+    "category": "poll",
+    "text": "Trading style check: are you a scalper, a swing trader, or a position trader? Curious what this audience actually is.\n\n#TradingCommunity #TraderMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "022",
-    "text": "Patience is the real leverage in this game. Take the trade your strategy gives you, not the one your emotions want.\n\n#WealthBuilding #TradingMotivation #TradingTips #MoneyMindset",
-    "posted": true,
-    "postedAt": "2026-07-07T11:20:09.015Z",
-    "threadId": "18051223787558723"
+    "category": "question",
+    "text": "What's the worst trade you ever made and what did it teach you?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "023",
-    "text": "The chart doesn't care how you feel about it. Review your losses as closely as your wins.\n\n#TradingDiscipline #TradingJourney #MoneyMindset #TradingMindset",
-    "posted": true,
-    "postedAt": "2026-07-07T15:17:57.479Z",
-    "threadId": "17924296923368239"
+    "category": "confession",
+    "text": "I don't trust myself on Fridays. My worst trades almost always happen on Friday afternoons.\n\n#TradingPsychology #TradingMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "024",
-    "text": "Overtrading is the fastest way to underperform. Every red day is data, not a verdict on your worth.\n\n#TraderLife #MoneyMindset #TradingJourney #TrendFollowing",
-    "posted": true,
-    "postedAt": "2026-07-07T18:22:16.303Z",
-    "threadId": "18401182243082613"
+    "category": "contrarian",
+    "text": "Watching the market all day makes you a worse trader, not a better one.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "025",
-    "text": "Every candle tells a story — learn to read it calmly. A calm exit is worth more than a lucky entry.\n\n#WealthBuilding #TradingPsychology #TradingCommunity #TradingMindset",
-    "posted": true,
-    "postedAt": "2026-07-07T21:43:15.371Z",
-    "threadId": "18058990826726661"
+    "category": "confession",
+    "text": "I used to think discipline meant never feeling tempted. Now I think it means feeling tempted and doing the boring thing anyway.\n\n#TradingPsychology #TradingMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "026",
-    "text": "Support and resistance don't lie — impatience does. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TradingJourney #TradingDiscipline #TradingPsychology #TraderMindset",
-    "posted": true,
-    "postedAt": "2026-07-08T03:47:15.683Z",
-    "threadId": "17880245586611428"
+    "category": "myth",
+    "text": "Overtrading isn't a character flaw. It's usually just boredom wearing a strategy costume.\n\n#TradingTips #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "027",
-    "text": "Every session is a fresh test of discipline. One good decision repeated daily builds real momentum.\n\n#DisciplineWins #TradingDiscipline #MarketMindset #RiskManagement",
-    "posted": true,
-    "postedAt": "2026-07-08T06:40:06.855Z",
-    "threadId": "18359670127243431"
+    "category": "fill_blank",
+    "text": "The timeframe you actually trade, not the one you tell people you trade: ___\n\n#TradingCommunity #ForexLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "028",
-    "text": "Your journal is your best trading coach. Consistency in position sizing protects you from yourself.\n\n#TradingPsychology #MoneyMindset #TradingDiscipline #TradingMindset",
-    "posted": true,
-    "postedAt": "2026-07-08T10:31:28.797Z",
-    "threadId": "17876376888512568"
+    "category": "myth",
+    "text": "A stop loss isn't a prediction that you'll lose. It's an admission that you don't actually know what happens next \u2014 which is true for everyone.\n\n#TradingTips #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "029",
-    "text": "The chart doesn't care how you feel about it. Wait for the setup to confirm before you commit capital.\n\n#DayTraderLife #TradingMindset #TraderLife #PriceAction",
-    "posted": true,
-    "postedAt": "2026-07-08T14:42:41.605Z",
-    "threadId": "17908014015262343"
+    "category": "fill_blank",
+    "text": "The one trading book that actually changed how you trade: ___\n\n#TradingCommunity #ForexLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "030",
-    "text": "Volatility is opportunity for the prepared mind. Let the setup come to you instead of forcing an entry.\n\n#DisciplineWins #FinancialFreedom #ForexLife #TraderMindset",
-    "posted": true,
-    "postedAt": "2026-07-08T17:53:07.655Z",
-    "threadId": "18420728119182282"
+    "category": "contrarian",
+    "text": "Paper trading teaches you nothing about risk. Risk isn't real until money is.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "031",
-    "text": "Your edge means nothing without risk control. One good decision repeated daily builds real momentum.\n\n#DayTraderLife #TradingMotivation #MoneyMindset #RiskManagement",
-    "posted": true,
-    "postedAt": "2026-07-08T21:32:51.994Z",
-    "threadId": "18044375096592785"
+    "category": "story",
+    "text": "Lost 4% on a trade this week because I moved my stop loss twice. Wrote it down so I remember what that felt like.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "032",
-    "text": "Consistency compounds. Chase process, not profit. Trust the process even when the market tests your patience.\n\n#DayTraderLife #MoneyMindset #TradingPsychology #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-09T04:15:39.773Z",
-    "threadId": "18116521367490131"
+    "category": "contrarian",
+    "text": "Unpopular opinion: most traders lose because they read too much, not too little.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "033",
-    "text": "Great traders are built in drawdowns, not rallies. Let the setup come to you instead of forcing an entry.\n\n#SmartTrading #WealthBuilding #MarketMindset #MoneyMindset",
-    "posted": true,
-    "postedAt": "2026-07-09T07:56:14.580Z",
-    "threadId": "18185584198352506"
+    "category": "myth",
+    "text": "The market doesn't punish emotion. It punishes inconsistency. Emotional but consistent beats calm but random.\n\n#TradingTips #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "034",
-    "text": "Your worst enemy in trading is your own impatience. A calm exit is worth more than a lucky entry.\n\n#TradingTips #PriceAction #TradingCommunity #TradingDiscipline",
-    "posted": true,
-    "postedAt": "2026-07-09T11:20:33.723Z",
-    "threadId": "17913092271423597"
+    "category": "fill_blank",
+    "text": "Your risk per trade as a percentage of account: ___%. No judgment, just curious what's normal here.\n\n#TradingCommunity #ForexLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "035",
-    "text": "Master your emotions before you master the charts. One good decision repeated daily builds real momentum.\n\n#FinancialFreedom #SmartTrading #TradingMotivation #TrendFollowing",
-    "posted": true,
-    "postedAt": "2026-07-09T15:35:29.459Z",
-    "threadId": "17902886121461111"
+    "category": "confession",
+    "text": "Took me way too long to admit my problem wasn't strategy, it was that I couldn't sit still and do nothing.\n\n#TradingPsychology #TradingMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "036",
-    "text": "Discipline beats excitement every single time. Respect your stop loss like it's non-negotiable.\n\n#MoneyMindset #FinancialFreedom #TraderMindset #TradingMindset",
-    "posted": true,
-    "postedAt": "2026-07-09T18:12:03.115Z",
-    "threadId": "18606792247046071"
+    "category": "contrarian",
+    "text": "Stop losses don't save you from bad trades. They just make bad trades cheaper.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "037",
-    "text": "Your edge means nothing without risk control. Every red day is data, not a verdict on your worth.\n\n#ForexLife #FinancialFreedom #TradingMotivation #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-09T21:47:52.672Z",
-    "threadId": "18059518193757951"
+    "category": "confession",
+    "text": "I still get nervous before every single trade, even after years of doing this. If that never goes away, it's not a weakness.\n\n#TradingPsychology #TradingMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "038",
-    "text": "The chart rewards preparation, not prediction. Wait for the setup to confirm before you commit capital.\n\n#TradingMotivation #TradingDiscipline #FinancialFreedom #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-10T04:17:16.926Z",
-    "threadId": "18145503091472037"
+    "category": "myth",
+    "text": "Your win rate matters less than your average win versus your average loss. Most beginners optimize the wrong number.\n\n#TradingTips #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "039",
-    "text": "Overtrading is the fastest way to underperform. Review your losses as closely as your wins.\n\n#MarketMindset #MoneyMindset #RiskManagement #DayTraderLife",
-    "posted": true,
-    "postedAt": "2026-07-10T07:56:37.269Z",
-    "threadId": "17982413178032499"
+    "category": "question",
+    "text": "What's one trading rule you know is right but still break anyway?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "040",
-    "text": "Small disciplined wins beat one reckless home run. Consistency in position sizing protects you from yourself.\n\n#DayTraderLife #WealthBuilding #MarketMindset #TraderLife",
-    "posted": true,
-    "postedAt": "2026-07-10T11:20:43.494Z",
-    "threadId": "18072981650341915"
+    "category": "story",
+    "text": "Cut a position at breakeven yesterday that would've been a 6R winner if I'd held. Still don't regret the decision \u2014 I didn't have conviction, I had hope.\n\n#TradingJourney #DayTraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "041",
-    "text": "Every candle tells a story — learn to read it calmly. Trust the process even when the market tests your patience.\n\n#WealthBuilding #PriceAction #SmartTrading #MoneyMindset",
-    "posted": true,
-    "postedAt": "2026-07-10T15:03:57.280Z",
-    "threadId": "17955791619163193"
+    "category": "poll",
+    "text": "Which is harder for you \u2014 cutting losses or letting winners run? Genuinely split on which one wrecks more accounts.\n\n#TradingCommunity #TraderMindset",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "042",
-    "text": "Master your emotions before you master the charts. Let the setup come to you instead of forcing an entry.\n\n#ForexLife #TraderLife #SmartTrading #TradingTips",
-    "posted": true,
-    "postedAt": "2026-07-10T18:02:59.161Z",
-    "threadId": "18069194465435825"
+    "category": "question",
+    "text": "Do you trade better alone or when you're talking to other traders in real time?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "043",
-    "text": "Support and resistance don't lie — impatience does. Wait for the setup to confirm before you commit capital.\n\n#TraderLife #FinancialFreedom #MarketMindset #MoneyMindset",
-    "posted": true,
-    "postedAt": "2026-07-10T21:29:27.280Z",
-    "threadId": "18070223666394302"
+    "category": "fill_blank",
+    "text": "One word for how you felt during your last losing streak: ___\n\n#TradingCommunity #ForexLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "044",
-    "text": "Stop chasing candles — start following your plan. Review your losses as closely as your wins.\n\n#RiskManagement #WealthBuilding #TradingPsychology #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-11T03:44:51.242Z",
-    "threadId": "18157475653471157"
+    "category": "question",
+    "text": "What indicator did you finally delete from your charts, and why?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "045",
-    "text": "Master your emotions before you master the charts. Journaling every entry and exit sharpens your edge over time.\n\n#TradingMotivation #TradingCommunity #MoneyMindset #TraderLife",
-    "posted": true,
-    "postedAt": "2026-07-11T06:27:57.742Z",
-    "threadId": "17876484561618528"
+    "category": "question",
+    "text": "What's the dumbest reason you've ever entered a trade?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "046",
-    "text": "Stop chasing candles — start following your plan. Let the setup come to you instead of forcing an entry.\n\n#TradingMindset #TradingMotivation #FinancialFreedom #TradingPsychology",
-    "posted": true,
-    "postedAt": "2026-07-11T09:50:09.365Z",
-    "threadId": "18087315137129085"
+    "category": "contrarian",
+    "text": "Backtesting a strategy for 6 months means nothing if you haven't traded it live for one.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "047",
-    "text": "The market doesn't owe you a trade today. Review your losses as closely as your wins.\n\n#DayTraderLife #MarketMindset #TradingTips #ForexLife",
-    "posted": true,
-    "postedAt": "2026-07-11T13:56:38.348Z",
-    "threadId": "18605395678017538"
+    "category": "contrarian",
+    "text": "Risk management doesn't fix a bad strategy. It just slows down how fast you find out it's bad.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "048",
-    "text": "The best trade you make is sometimes the one you skip. Small, steady gains outlast big, reckless swings.\n\n#TradingMindset #TradingTips #TradingJourney #TradingCommunity",
-    "posted": true,
-    "postedAt": "2026-07-11T17:17:27.057Z",
-    "threadId": "18334498303266423"
+    "category": "contrarian",
+    "text": "A trading plan you've never broken isn't disciplined. It's untested.\n\n#TradingPsychology #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "049",
-    "text": "A clear mind reads charts better than an anxious one. Small, steady gains outlast big, reckless swings.\n\n#MoneyMindset #DayTraderLife #RiskManagement #MarketMindset",
-    "posted": true,
-    "postedAt": "2026-07-11T21:08:34.126Z",
-    "threadId": "18081046847246104"
+    "category": "myth",
+    "text": "More screen time does not equal more skill. Some of the best traders I know check charts twice a day.\n\n#TradingTips #RiskManagement",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "050",
-    "text": "A clear mind reads charts better than an anxious one. Journaling every entry and exit sharpens your edge over time.\n\n#ForexLife #TraderMindset #MoneyMindset #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-12T04:00:24.880Z",
-    "threadId": "18069875090417863"
+    "category": "question",
+    "text": "Be honest: do you actually use a stop loss, or do you move it when it's losing?\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "051",
-    "text": "Risk 1% like it's the only rule that matters. Review your losses as closely as your wins.\n\n#TradingDiscipline #SmartTrading #TradingPsychology #ForexLife",
-    "posted": true,
-    "postedAt": "2026-07-12T06:47:24.495Z",
-    "threadId": "18225941857318064"
+    "category": "question",
+    "text": "How long did it take you to become consistently profitable? Be honest, not motivational.\n\n#TradingCommunity #TraderLife",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   },
   {
     "id": "052",
-    "text": "Great traders are built in drawdowns, not rallies. One good decision repeated daily builds real momentum.\n\n#TradingPsychology #TradingMotivation #TraderMindset #FinancialFreedom",
-    "posted": true,
-    "postedAt": "2026-07-12T10:02:41.950Z",
-    "threadId": "18017925053704914"
-  },
-  {
-    "id": "053",
-    "text": "Cut losses fast, let winners breathe. One good decision repeated daily builds real momentum.\n\n#TraderMindset #FinancialFreedom #ForexLife #TradingMotivation",
-    "posted": true,
-    "postedAt": "2026-07-12T13:57:58.478Z",
-    "threadId": "17870305965691042"
-  },
-  {
-    "id": "054",
-    "text": "The market doesn't owe you a trade today. Trust the process even when the market tests your patience.\n\n#TraderMindset #SmartTrading #TradingDiscipline #TrendFollowing",
-    "posted": true,
-    "postedAt": "2026-07-12T17:20:22.215Z",
-    "threadId": "18105688447845023"
-  },
-  {
-    "id": "055",
-    "text": "Every session is a fresh test of discipline. A calm exit is worth more than a lucky entry.\n\n#MarketMindset #TrendFollowing #FinancialFreedom #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-12T21:08:32.887Z",
-    "threadId": "17943298539254071"
-  },
-  {
-    "id": "056",
-    "text": "Cut losses fast, let winners breathe. Take the trade your strategy gives you, not the one your emotions want.\n\n#DisciplineWins #TradingCommunity #TrendFollowing #TradingMotivation",
-    "posted": true,
-    "postedAt": "2026-07-13T04:02:39.353Z",
-    "threadId": "18071181344433921"
-  },
-  {
-    "id": "057",
-    "text": "Discipline beats excitement every single time. Review your losses as closely as your wins.\n\n#SmartTrading #TraderMindset #TraderLife #TradingMotivation",
-    "posted": true,
-    "postedAt": "2026-07-13T07:41:47.988Z",
-    "threadId": "17887429284666111"
-  },
-  {
-    "id": "058",
-    "text": "Stop chasing candles — start following your plan. Journaling every entry and exit sharpens your edge over time.\n\n#TradingDiscipline #TradingJourney #RiskManagement #PriceAction",
-    "posted": true,
-    "postedAt": "2026-07-13T11:30:41.311Z",
-    "threadId": "18090957389629842"
-  },
-  {
-    "id": "059",
-    "text": "Volatility is opportunity for the prepared mind. One good decision repeated daily builds real momentum.\n\n#FinancialFreedom #PriceAction #DisciplineWins #TradingPsychology",
-    "posted": true,
-    "postedAt": "2026-07-13T15:13:27.024Z",
-    "threadId": "18091973063069591"
-  },
-  {
-    "id": "060",
-    "text": "Stop chasing candles — start following your plan. Every red day is data, not a verdict on your worth.\n\n#DisciplineWins #TradingDiscipline #TradingMindset #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-13T18:10:54.830Z",
-    "threadId": "18122922427702651"
-  },
-  {
-    "id": "061",
-    "text": "Every session is a fresh test of discipline. Trust the process even when the market tests your patience.\n\n#TraderLife #RiskManagement #TradingJourney #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-13T21:14:02.367Z",
-    "threadId": "17997578483963790"
-  },
-  {
-    "id": "062",
-    "text": "Support and resistance don't lie — impatience does. The trader who waits for confluence trades less and earns more.\n\n#RiskManagement #TradingJourney #DisciplineWins #MarketMindset",
-    "posted": true,
-    "postedAt": "2026-07-14T03:37:22.475Z",
-    "threadId": "18415302412151070"
-  },
-  {
-    "id": "063",
-    "text": "Your worst enemy in trading is your own impatience. Wait for the setup to confirm before you commit capital.\n\n#MarketMindset #TradingJourney #TradingDiscipline #DayTraderLife",
-    "posted": true,
-    "postedAt": "2026-07-14T06:26:56.269Z",
-    "threadId": "18213063013339661"
-  },
-  {
-    "id": "064",
-    "text": "Protect your capital first. Profits follow protection. The market will still be here tomorrow — your capital might not be if you rush.\n\n#ForexLife #TradingMotivation #WealthBuilding #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-14T10:12:00.086Z",
-    "threadId": "17905139496452701"
-  },
-  {
-    "id": "065",
-    "text": "Trends reward the trader who waits for confirmation. Consistency in position sizing protects you from yourself.\n\n#RiskManagement #TradingJourney #TradingPsychology #TradingCommunity",
-    "posted": true,
-    "postedAt": "2026-07-14T14:15:38.362Z",
-    "threadId": "18123951055665509"
-  },
-  {
-    "id": "066",
-    "text": "The market doesn't owe you a trade today. The trader who waits for confluence trades less and earns more.\n\n#TradingMindset #TraderLife #TradingMotivation #RiskManagement",
-    "posted": true,
-    "postedAt": "2026-07-14T17:35:29.067Z",
-    "threadId": "17894182416372866"
-  },
-  {
-    "id": "067",
-    "text": "Stop chasing candles — start following your plan. Stick to your risk plan even when the setup looks tempting.\n\n#PriceAction #TraderMindset #MoneyMindset #RiskManagement",
-    "posted": true,
-    "postedAt": "2026-07-14T21:16:28.522Z",
-    "threadId": "17860731063660770"
-  },
-  {
-    "id": "068",
-    "text": "The market doesn't owe you a trade today. Take the trade your strategy gives you, not the one your emotions want.\n\n#ForexLife #DisciplineWins #PriceAction #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-15T03:38:18.370Z",
-    "threadId": "18004826657954495"
-  },
-  {
-    "id": "069",
-    "text": "Volatility is opportunity for the prepared mind. Wait for the setup to confirm before you commit capital.\n\n#MarketMindset #FinancialFreedom #TraderLife #PriceAction",
-    "posted": true,
-    "postedAt": "2026-07-15T06:29:29.095Z",
-    "threadId": "18114544753900071"
-  },
-  {
-    "id": "070",
-    "text": "Trade the plan, not the emotion of the moment. The trader who waits for confluence trades less and earns more.\n\n#WealthBuilding #RiskManagement #FinancialFreedom #TradingPsychology",
-    "posted": true,
-    "postedAt": "2026-07-15T10:16:25.747Z",
-    "threadId": "18131396833621854"
-  },
-  {
-    "id": "071",
-    "text": "Momentum favors the trader who waited for it. Consistency in position sizing protects you from yourself.\n\n#TradingPsychology #WealthBuilding #TradingMindset #SmartTrading",
-    "posted": true,
-    "postedAt": "2026-07-15T14:12:37.269Z",
-    "threadId": "17947871361213478"
-  },
-  {
-    "id": "072",
-    "text": "Every session is a fresh test of discipline. Small, steady gains outlast big, reckless swings.\n\n#FinancialFreedom #TradingJourney #TradingPsychology #TraderLife",
-    "posted": true,
-    "postedAt": "2026-07-15T17:40:26.625Z",
-    "threadId": "18123781405666006"
-  },
-  {
-    "id": "073",
-    "text": "Cut losses fast, let winners breathe. Let the setup come to you instead of forcing an entry.\n\n#ForexLife #DayTraderLife #FinancialFreedom #MarketMindset",
-    "posted": true,
-    "postedAt": "2026-07-15T21:16:29.825Z",
-    "threadId": "17899637826531511"
-  },
-  {
-    "id": "074",
-    "text": "Cutting a loss early is a win in disguise. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TradingCommunity #PriceAction #DisciplineWins #FinancialFreedom",
-    "posted": true,
-    "postedAt": "2026-07-16T03:40:39.957Z",
-    "threadId": "18602968663051829"
-  },
-  {
-    "id": "075",
-    "text": "Small disciplined wins beat one reckless home run. Stick to your risk plan even when the setup looks tempting.\n\n#MarketMindset #TradingTips #TrendFollowing #TradingJourney",
-    "posted": true,
-    "postedAt": "2026-07-16T06:32:49.913Z",
-    "threadId": "18083366906208948"
-  },
-  {
-    "id": "076",
-    "text": "Trade the plan, not the emotion of the moment. A calm exit is worth more than a lucky entry.\n\n#PriceAction #TradingDiscipline #TradingTips #TrendFollowing",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "077",
-    "text": "Discipline beats excitement every single time. One good decision repeated daily builds real momentum.\n\n#TradingJourney #TradingPsychology #SmartTrading #ForexLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "078",
-    "text": "Every candle tells a story — learn to read it calmly. Respect your stop loss like it's non-negotiable.\n\n#WealthBuilding #PriceAction #TrendFollowing #SmartTrading",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "079",
-    "text": "The chart doesn't care how you feel about it. The trader who waits for confluence trades less and earns more.\n\n#TraderLife #TradingTips #MarketMindset #TradingJourney",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "080",
-    "text": "The market rewards patience, not impulse. Every red day is data, not a verdict on your worth.\n\n#WealthBuilding #TradingMindset #TradingDiscipline #MarketMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "081",
-    "text": "Your journal is your best trading coach. Small, steady gains outlast big, reckless swings.\n\n#TradingMotivation #TrendFollowing #TraderMindset #TraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "082",
-    "text": "A clear mind reads charts better than an anxious one. The trader who waits for confluence trades less and earns more.\n\n#DisciplineWins #WealthBuilding #TrendFollowing #TradingTips",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "083",
-    "text": "Stop chasing candles — start following your plan. Take the trade your strategy gives you, not the one your emotions want.\n\n#MarketMindset #WealthBuilding #TradingTips #TradingPsychology",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "084",
-    "text": "The chart doesn't care how you feel about it. Respect your stop loss like it's non-negotiable.\n\n#DisciplineWins #TradingTips #MoneyMindset #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "085",
-    "text": "A clear mind reads charts better than an anxious one. A calm exit is worth more than a lucky entry.\n\n#MarketMindset #WealthBuilding #TrendFollowing #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "086",
-    "text": "Master your emotions before you master the charts. Review your losses as closely as your wins.\n\n#MarketMindset #TradingDiscipline #DayTraderLife #TradingPsychology",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "087",
-    "text": "Overtrading is the fastest way to underperform. One good decision repeated daily builds real momentum.\n\n#DisciplineWins #TradingDiscipline #TrendFollowing #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "088",
-    "text": "Small disciplined wins beat one reckless home run. Trust the process even when the market tests your patience.\n\n#DisciplineWins #FinancialFreedom #MarketMindset #RiskManagement",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "089",
-    "text": "Discipline beats excitement every single time. Stick to your risk plan even when the setup looks tempting.\n\n#FinancialFreedom #DayTraderLife #TradingMotivation #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "090",
-    "text": "The market doesn't owe you a trade today. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TraderMindset #MarketMindset #TradingTips #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "091",
-    "text": "Cut losses fast, let winners breathe. Journaling every entry and exit sharpens your edge over time.\n\n#RiskManagement #TradingMindset #TraderLife #WealthBuilding",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "092",
-    "text": "Small disciplined wins beat one reckless home run. Take the trade your strategy gives you, not the one your emotions want.\n\n#TradingDiscipline #TradingCommunity #ForexLife #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "093",
-    "text": "Every session is a fresh test of discipline. Let the setup come to you instead of forcing an entry.\n\n#TraderLife #TradingCommunity #RiskManagement #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "094",
-    "text": "Overtrading is the fastest way to underperform. The trader who waits for confluence trades less and earns more.\n\n#MoneyMindset #TrendFollowing #TradingCommunity #TradingDiscipline",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "095",
-    "text": "The market doesn't owe you a trade today. Let the setup come to you instead of forcing an entry.\n\n#MoneyMindset #TradingCommunity #TradingPsychology #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "096",
-    "text": "Master your emotions before you master the charts. A calm exit is worth more than a lucky entry.\n\n#FinancialFreedom #TradingJourney #TradingDiscipline #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "097",
-    "text": "Patience is the real leverage in this game. Journaling every entry and exit sharpens your edge over time.\n\n#TradingJourney #TradingCommunity #TradingMotivation #DisciplineWins",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "098",
-    "text": "Small disciplined wins beat one reckless home run. A calm exit is worth more than a lucky entry.\n\n#TrendFollowing #SmartTrading #MoneyMindset #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "099",
-    "text": "Consistency compounds. Chase process, not profit. Take the trade your strategy gives you, not the one your emotions want.\n\n#FinancialFreedom #TradingTips #RiskManagement #MarketMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "100",
-    "text": "Your edge means nothing without risk control. Small, steady gains outlast big, reckless swings.\n\n#WealthBuilding #TrendFollowing #MoneyMindset #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "101",
-    "text": "The market doesn't owe you a trade today. Stick to your risk plan even when the setup looks tempting.\n\n#MarketMindset #WealthBuilding #TradingTips #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "102",
-    "text": "The chart rewards preparation, not prediction. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TraderMindset #TradingTips #DayTraderLife #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "103",
-    "text": "Your journal is your best trading coach. A calm exit is worth more than a lucky entry.\n\n#TradingTips #WealthBuilding #MoneyMindset #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "104",
-    "text": "Every pullback is a test of your conviction. Journaling every entry and exit sharpens your edge over time.\n\n#TradingJourney #WealthBuilding #DayTraderLife #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "105",
-    "text": "Cut losses fast, let winners breathe. Wait for the setup to confirm before you commit capital.\n\n#TradingTips #TradingPsychology #TradingCommunity #RiskManagement",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "106",
-    "text": "Discipline beats excitement every single time. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TradingTips #TraderMindset #TradingMindset #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "107",
-    "text": "Patience is the real leverage in this game. Small, steady gains outlast big, reckless swings.\n\n#RiskManagement #TradingCommunity #TradingPsychology #ForexLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "108",
-    "text": "Protect your capital first. Profits follow protection. Small, steady gains outlast big, reckless swings.\n\n#TrendFollowing #MarketMindset #TradingCommunity #SmartTrading",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "109",
-    "text": "Volatility is opportunity for the prepared mind. Small, steady gains outlast big, reckless swings.\n\n#TradingJourney #WealthBuilding #SmartTrading #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "110",
-    "text": "Every pullback is a test of your conviction. Stick to your risk plan even when the setup looks tempting.\n\n#MoneyMindset #ForexLife #PriceAction #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "111",
-    "text": "Trade the plan, not the emotion of the moment. Trust the process even when the market tests your patience.\n\n#ForexLife #TradingMindset #FinancialFreedom #MarketMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "112",
-    "text": "Cutting a loss early is a win in disguise. Stick to your risk plan even when the setup looks tempting.\n\n#SmartTrading #RiskManagement #FinancialFreedom #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "113",
-    "text": "Every pullback is a test of your conviction. Trust the process even when the market tests your patience.\n\n#TraderLife #TraderMindset #MarketMindset #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "114",
-    "text": "The best trade you make is sometimes the one you skip. Respect your stop loss like it's non-negotiable.\n\n#SmartTrading #TraderLife #TradingPsychology #DisciplineWins",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "115",
-    "text": "A clear mind reads charts better than an anxious one. Respect your stop loss like it's non-negotiable.\n\n#TradingTips #SmartTrading #MarketMindset #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "116",
-    "text": "Risk 1% like it's the only rule that matters. Every red day is data, not a verdict on your worth.\n\n#FinancialFreedom #TraderLife #DisciplineWins #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "117",
-    "text": "Momentum favors the trader who waited for it. Respect your stop loss like it's non-negotiable.\n\n#ForexLife #PriceAction #MoneyMindset #WealthBuilding",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "118",
-    "text": "Overtrading is the fastest way to underperform. Wait for the setup to confirm before you commit capital.\n\n#TradingMotivation #TradingDiscipline #TrendFollowing #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "119",
-    "text": "The chart rewards preparation, not prediction. Small, steady gains outlast big, reckless swings.\n\n#DayTraderLife #TraderLife #WealthBuilding #PriceAction",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "120",
-    "text": "Patience is the real leverage in this game. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TradingCommunity #RiskManagement #WealthBuilding #TradingPsychology",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "121",
-    "text": "Patience is the real leverage in this game. A calm exit is worth more than a lucky entry.\n\n#SmartTrading #MoneyMindset #DayTraderLife #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "122",
-    "text": "Support and resistance don't lie — impatience does. Respect your stop loss like it's non-negotiable.\n\n#TradingJourney #TrendFollowing #FinancialFreedom #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "123",
-    "text": "Trade the plan, not the emotion of the moment. Review your losses as closely as your wins.\n\n#TraderMindset #TradingTips #TrendFollowing #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "124",
-    "text": "Every pullback is a test of your conviction. Let the setup come to you instead of forcing an entry.\n\n#TrendFollowing #TradingPsychology #DayTraderLife #MarketMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "125",
-    "text": "Protect your capital first. Profits follow protection. Wait for the setup to confirm before you commit capital.\n\n#TradingJourney #SmartTrading #MoneyMindset #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "126",
-    "text": "Great traders are built in drawdowns, not rallies. Journaling every entry and exit sharpens your edge over time.\n\n#TradingMotivation #FinancialFreedom #WealthBuilding #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "127",
-    "text": "Stop chasing candles — start following your plan. Consistency in position sizing protects you from yourself.\n\n#FinancialFreedom #DayTraderLife #TraderMindset #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "128",
-    "text": "Momentum favors the trader who waited for it. Stick to your risk plan even when the setup looks tempting.\n\n#TradingMotivation #DisciplineWins #FinancialFreedom #TradingTips",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "129",
-    "text": "Your worst enemy in trading is your own impatience. Journaling every entry and exit sharpens your edge over time.\n\n#DisciplineWins #TraderMindset #PriceAction #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "130",
-    "text": "Stop chasing candles — start following your plan. The trader who waits for confluence trades less and earns more.\n\n#PriceAction #WealthBuilding #MoneyMindset #TrendFollowing",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "131",
-    "text": "Your journal is your best trading coach. Every red day is data, not a verdict on your worth.\n\n#TradingCommunity #TradingJourney #DisciplineWins #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "132",
-    "text": "Small disciplined wins beat one reckless home run. One good decision repeated daily builds real momentum.\n\n#MarketMindset #TrendFollowing #TraderLife #TradingPsychology",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "133",
-    "text": "Fear and greed are loud. Your plan should be louder. Journaling every entry and exit sharpens your edge over time.\n\n#DayTraderLife #TradingJourney #TradingDiscipline #DisciplineWins",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "134",
-    "text": "Every candle tells a story — learn to read it calmly. Let the setup come to you instead of forcing an entry.\n\n#MarketMindset #DisciplineWins #FinancialFreedom #PriceAction",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "135",
-    "text": "The best trade you make is sometimes the one you skip. A calm exit is worth more than a lucky entry.\n\n#TradingMindset #MoneyMindset #RiskManagement #TradingJourney",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "136",
-    "text": "Stop chasing candles — start following your plan. A calm exit is worth more than a lucky entry.\n\n#RiskManagement #DayTraderLife #TraderLife #TradingMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "137",
-    "text": "Risk 1% like it's the only rule that matters. A calm exit is worth more than a lucky entry.\n\n#DayTraderLife #SmartTrading #TradingCommunity #TrendFollowing",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "138",
-    "text": "The best trade you make is sometimes the one you skip. Stick to your risk plan even when the setup looks tempting.\n\n#TradingJourney #DayTraderLife #TraderLife #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "139",
-    "text": "Cut losses fast, let winners breathe. Review your losses as closely as your wins.\n\n#TradingMotivation #TraderMindset #ForexLife #RiskManagement",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "140",
-    "text": "Consistency compounds. Chase process, not profit. Consistency in position sizing protects you from yourself.\n\n#TraderMindset #DisciplineWins #TradingMotivation #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "141",
-    "text": "Every candle tells a story — learn to read it calmly. The trader who waits for confluence trades less and earns more.\n\n#WealthBuilding #FinancialFreedom #TradingDiscipline #TradingTips",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "142",
-    "text": "Master your emotions before you master the charts. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TradingCommunity #DisciplineWins #WealthBuilding #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "143",
-    "text": "Risk 1% like it's the only rule that matters. Respect your stop loss like it's non-negotiable.\n\n#ForexLife #TraderLife #MarketMindset #MoneyMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "144",
-    "text": "Protect your capital first. Profits follow protection. Trust the process even when the market tests your patience.\n\n#TradingMotivation #TradingPsychology #FinancialFreedom #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "145",
-    "text": "Your worst enemy in trading is your own impatience. Respect your stop loss like it's non-negotiable.\n\n#DayTraderLife #DisciplineWins #ForexLife #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "146",
-    "text": "A clear mind reads charts better than an anxious one. Every red day is data, not a verdict on your worth.\n\n#DisciplineWins #TradingCommunity #TradingMotivation #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "147",
-    "text": "Patience is the real leverage in this game. Respect your stop loss like it's non-negotiable.\n\n#MarketMindset #WealthBuilding #TraderLife #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "148",
-    "text": "Cutting a loss early is a win in disguise. Take the trade your strategy gives you, not the one your emotions want.\n\n#TradingMotivation #ForexLife #TradingPsychology #DisciplineWins",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "149",
-    "text": "The chart doesn't care how you feel about it. Every red day is data, not a verdict on your worth.\n\n#TraderMindset #DisciplineWins #TradingCommunity #TraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "150",
-    "text": "Master your emotions before you master the charts. Every red day is data, not a verdict on your worth.\n\n#DisciplineWins #TradingTips #TradingJourney #TradingDiscipline",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "151",
-    "text": "The chart doesn't care how you feel about it. A calm exit is worth more than a lucky entry.\n\n#TradingMindset #TradingMotivation #FinancialFreedom #SmartTrading",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "152",
-    "text": "Cutting a loss early is a win in disguise. A calm exit is worth more than a lucky entry.\n\n#TraderMindset #ForexLife #TradingPsychology #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "153",
-    "text": "Great traders are built in drawdowns, not rallies. Trust the process even when the market tests your patience.\n\n#TradingCommunity #TradingJourney #TradingPsychology #WealthBuilding",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "154",
-    "text": "Patience is the real leverage in this game. Let the setup come to you instead of forcing an entry.\n\n#DayTraderLife #TradingMotivation #SmartTrading #PriceAction",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "155",
-    "text": "The market doesn't owe you a trade today. Wait for the setup to confirm before you commit capital.\n\n#TrendFollowing #TraderLife #TradingPsychology #SmartTrading",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "156",
-    "text": "The market doesn't owe you a trade today. Every red day is data, not a verdict on your worth.\n\n#DayTraderLife #DisciplineWins #TradingTips #ForexLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "157",
-    "text": "Trends reward the trader who waits for confirmation. A calm exit is worth more than a lucky entry.\n\n#TrendFollowing #TraderLife #TradingTips #TradingDiscipline",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "158",
-    "text": "Overtrading is the fastest way to underperform. Let the setup come to you instead of forcing an entry.\n\n#MoneyMindset #TradingCommunity #WealthBuilding #ForexLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "159",
-    "text": "Fear and greed are loud. Your plan should be louder. The trader who waits for confluence trades less and earns more.\n\n#PriceAction #DayTraderLife #TradingCommunity #ForexLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "160",
-    "text": "Fear and greed are loud. Your plan should be louder. A calm exit is worth more than a lucky entry.\n\n#MoneyMindset #RiskManagement #DisciplineWins #TradingCommunity",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "161",
-    "text": "Volatility is opportunity for the prepared mind. Every red day is data, not a verdict on your worth.\n\n#DayTraderLife #TraderLife #TradingMindset #FinancialFreedom",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "162",
-    "text": "Your worst enemy in trading is your own impatience. Take the trade your strategy gives you, not the one your emotions want.\n\n#DisciplineWins #MoneyMindset #TradingMindset #WealthBuilding",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "163",
-    "text": "Your edge means nothing without risk control. Journaling every entry and exit sharpens your edge over time.\n\n#TraderLife #TradingCommunity #SmartTrading #RiskManagement",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "164",
-    "text": "Every pullback is a test of your conviction. The market will still be here tomorrow — your capital might not be if you rush.\n\n#DisciplineWins #TradingDiscipline #TradingJourney #WealthBuilding",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "165",
-    "text": "Cutting a loss early is a win in disguise. Review your losses as closely as your wins.\n\n#DayTraderLife #FinancialFreedom #TradingCommunity #RiskManagement",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "166",
-    "text": "Every session is a fresh test of discipline. Respect your stop loss like it's non-negotiable.\n\n#TradingDiscipline #RiskManagement #TradingMotivation #TradingJourney",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "167",
-    "text": "Trade the plan, not the emotion of the moment. Consistency in position sizing protects you from yourself.\n\n#WealthBuilding #TrendFollowing #TradingDiscipline #TradingJourney",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "168",
-    "text": "A clear mind reads charts better than an anxious one. Let the setup come to you instead of forcing an entry.\n\n#TraderMindset #SmartTrading #DayTraderLife #RiskManagement",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "169",
-    "text": "Master your emotions before you master the charts. The trader who waits for confluence trades less and earns more.\n\n#DayTraderLife #PriceAction #TrendFollowing #TradingTips",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "170",
-    "text": "Trends reward the trader who waits for confirmation. Let the setup come to you instead of forcing an entry.\n\n#MarketMindset #FinancialFreedom #TradingTips #TraderMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "171",
-    "text": "The chart rewards preparation, not prediction. Consistency in position sizing protects you from yourself.\n\n#WealthBuilding #ForexLife #TrendFollowing #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "172",
-    "text": "Your worst enemy in trading is your own impatience. The market will still be here tomorrow — your capital might not be if you rush.\n\n#TradingTips #SmartTrading #RiskManagement #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "173",
-    "text": "The market rewards patience, not impulse. Take the trade your strategy gives you, not the one your emotions want.\n\n#TradingDiscipline #TraderMindset #TrendFollowing #TraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "174",
-    "text": "The chart rewards preparation, not prediction. Let the setup come to you instead of forcing an entry.\n\n#TradingCommunity #TraderLife #TradingDiscipline #SmartTrading",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "175",
-    "text": "Discipline beats excitement every single time. Every red day is data, not a verdict on your worth.\n\n#RiskManagement #WealthBuilding #SmartTrading #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "176",
-    "text": "Every pullback is a test of your conviction. Consistency in position sizing protects you from yourself.\n\n#TradingJourney #TrendFollowing #TradingTips #TradingMotivation",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "177",
-    "text": "The chart rewards preparation, not prediction. Trust the process even when the market tests your patience.\n\n#MoneyMindset #TradingTips #TrendFollowing #DayTraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "178",
-    "text": "The chart rewards preparation, not prediction. The trader who waits for confluence trades less and earns more.\n\n#ForexLife #TradingMotivation #FinancialFreedom #DisciplineWins",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "179",
-    "text": "Small disciplined wins beat one reckless home run. Every red day is data, not a verdict on your worth.\n\n#TradingMotivation #WealthBuilding #TraderLife #MoneyMindset",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
-  },
-  {
-    "id": "180",
-    "text": "Master your emotions before you master the charts. Take the trade your strategy gives you, not the one your emotions want.\n\n#DisciplineWins #TradingMindset #ForexLife #TrendFollowing",
+    "category": "poll",
+    "text": "Would you rather have a 70% win rate with small wins, or a 35% win rate with big wins? Both can work.\n\n#TradingCommunity #TraderMindset",
     "posted": false,
     "postedAt": null,
     "threadId": null
