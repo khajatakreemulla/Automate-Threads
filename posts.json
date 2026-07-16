@@ -3,9 +3,9 @@
     "id": "001",
     "category": "question",
     "text": "Do you journal every trade, or only the losses you're trying to understand?\n\n#TradingCommunity #TraderLife",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-16T10:21:53.996Z",
+    "threadId": "18159816640472772"
   },
   {
     "id": "002",
@@ -58,7 +58,7 @@
   {
     "id": "008",
     "category": "poll",
-    "text": "News-driven trades or pure technical setups \u2014 which actually pays your bills?\n\n#TradingCommunity #TraderMindset",
+    "text": "News-driven trades or pure technical setups — which actually pays your bills?\n\n#TradingCommunity #TraderMindset",
     "posted": false,
     "postedAt": null,
     "threadId": null
@@ -66,7 +66,7 @@
   {
     "id": "009",
     "category": "contrarian",
-    "text": "If your strategy only works on one timeframe, you don't have a strategy \u2014 you have a pattern you noticed once.\n\n#TradingPsychology #RiskManagement",
+    "text": "If your strategy only works on one timeframe, you don't have a strategy — you have a pattern you noticed once.\n\n#TradingPsychology #RiskManagement",
     "posted": false,
     "postedAt": null,
     "threadId": null
@@ -130,7 +130,7 @@
   {
     "id": "017",
     "category": "question",
-    "text": "What's your biggest edge \u2014 is it your entries, your exits, or your risk sizing?\n\n#TradingCommunity #TraderLife",
+    "text": "What's your biggest edge — is it your entries, your exits, or your risk sizing?\n\n#TradingCommunity #TraderLife",
     "posted": false,
     "postedAt": null,
     "threadId": null
@@ -218,7 +218,7 @@
   {
     "id": "028",
     "category": "myth",
-    "text": "A stop loss isn't a prediction that you'll lose. It's an admission that you don't actually know what happens next \u2014 which is true for everyone.\n\n#TradingTips #RiskManagement",
+    "text": "A stop loss isn't a prediction that you'll lose. It's an admission that you don't actually know what happens next — which is true for everyone.\n\n#TradingTips #RiskManagement",
     "posted": false,
     "postedAt": null,
     "threadId": null
@@ -314,7 +314,7 @@
   {
     "id": "040",
     "category": "story",
-    "text": "Cut a position at breakeven yesterday that would've been a 6R winner if I'd held. Still don't regret the decision \u2014 I didn't have conviction, I had hope.\n\n#TradingJourney #DayTraderLife",
+    "text": "Cut a position at breakeven yesterday that would've been a 6R winner if I'd held. Still don't regret the decision — I didn't have conviction, I had hope.\n\n#TradingJourney #DayTraderLife",
     "posted": false,
     "postedAt": null,
     "threadId": null
@@ -322,7 +322,7 @@
   {
     "id": "041",
     "category": "poll",
-    "text": "Which is harder for you \u2014 cutting losses or letting winners run? Genuinely split on which one wrecks more accounts.\n\n#TradingCommunity #TraderMindset",
+    "text": "Which is harder for you — cutting losses or letting winners run? Genuinely split on which one wrecks more accounts.\n\n#TradingCommunity #TraderMindset",
     "posted": false,
     "postedAt": null,
     "threadId": null
