@@ -32,4 +32,4 @@ jobs:
           git config user.email "actions@github.com"
           git add posts.json
           git diff --cached --quiet || git commit -m "chore: mark post as sent [skip ci]"
-          git push
+          git push --force-with-lease origin main
