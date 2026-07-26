@@ -427,9 +427,9 @@
     "id": "054",
     "category": "question",
     "text": "What's the first thing you check before entering a trade?",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-26T07:05:49.428Z",
+    "threadId": "17856525834694800"
   },
   {
     "id": "055",
