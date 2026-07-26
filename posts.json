@@ -58,7 +58,7 @@
   {
     "id": "008",
     "category": "poll",
-    "text": "News-driven trades or pure technical setups — which actually pays your bills?\n\n#TradingCommunity #TraderMindset",
+    "text": "News-driven trades or pure technical setups \u2014 which actually pays your bills?\n\n#TradingCommunity #TraderMindset",
     "posted": true,
     "postedAt": "2026-07-17T14:05:15.233Z",
     "threadId": "18050568059560140"
@@ -66,7 +66,7 @@
   {
     "id": "009",
     "category": "contrarian",
-    "text": "If your strategy only works on one timeframe, you don't have a strategy — you have a pattern you noticed once.\n\n#TradingPsychology #RiskManagement",
+    "text": "If your strategy only works on one timeframe, you don't have a strategy \u2014 you have a pattern you noticed once.\n\n#TradingPsychology #RiskManagement",
     "posted": true,
     "postedAt": "2026-07-17T17:32:15.580Z",
     "threadId": "18095211074200032"
@@ -130,7 +130,7 @@
   {
     "id": "017",
     "category": "question",
-    "text": "What's your biggest edge — is it your entries, your exits, or your risk sizing?\n\n#TradingCommunity #TraderLife",
+    "text": "What's your biggest edge \u2014 is it your entries, your exits, or your risk sizing?\n\n#TradingCommunity #TraderLife",
     "posted": true,
     "postedAt": "2026-07-19T03:57:25.391Z",
     "threadId": "18406204993158986"
@@ -218,7 +218,7 @@
   {
     "id": "028",
     "category": "myth",
-    "text": "A stop loss isn't a prediction that you'll lose. It's an admission that you don't actually know what happens next — which is true for everyone.\n\n#TradingTips #RiskManagement",
+    "text": "A stop loss isn't a prediction that you'll lose. It's an admission that you don't actually know what happens next \u2014 which is true for everyone.\n\n#TradingTips #RiskManagement",
     "posted": true,
     "postedAt": "2026-07-20T21:34:12.092Z",
     "threadId": "17930411598353199"
@@ -314,7 +314,7 @@
   {
     "id": "040",
     "category": "story",
-    "text": "Cut a position at breakeven yesterday that would've been a 6R winner if I'd held. Still don't regret the decision — I didn't have conviction, I had hope.\n\n#TradingJourney #DayTraderLife",
+    "text": "Cut a position at breakeven yesterday that would've been a 6R winner if I'd held. Still don't regret the decision \u2014 I didn't have conviction, I had hope.\n\n#TradingJourney #DayTraderLife",
     "posted": true,
     "postedAt": "2026-07-22T21:31:24.653Z",
     "threadId": "18447098950188969"
@@ -322,7 +322,7 @@
   {
     "id": "041",
     "category": "poll",
-    "text": "Which is harder for you — cutting losses or letting winners run? Genuinely split on which one wrecks more accounts.\n\n#TradingCommunity #TraderMindset",
+    "text": "Which is harder for you \u2014 cutting losses or letting winners run? Genuinely split on which one wrecks more accounts.\n\n#TradingCommunity #TraderMindset",
     "posted": true,
     "postedAt": "2026-07-23T03:47:17.780Z",
     "threadId": "18102498185334867"
@@ -414,5 +414,485 @@
     "posted": true,
     "postedAt": "2026-07-24T21:30:06.851Z",
     "threadId": "18620172133043398"
+  },
+  {
+    "id": "053",
+    "category": "question",
+    "text": "Do you review your winning trades as closely as your losing ones?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "054",
+    "category": "question",
+    "text": "What's the first thing you check before entering a trade?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "055",
+    "category": "question",
+    "text": "How long did it take before trading felt boring instead of exciting?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "056",
+    "category": "question",
+    "text": "Do you trade differently when you're using real money versus a demo account?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "057",
+    "category": "question",
+    "text": "What's a rule you broke once and regretted for weeks?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "058",
+    "category": "question",
+    "text": "Do you tell people how much you actually make trading, or keep it vague?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "059",
+    "category": "question",
+    "text": "How do you know when a losing streak is bad luck versus a broken strategy?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "060",
+    "category": "question",
+    "text": "What time of day are your trades the sloppiest?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "061",
+    "category": "question",
+    "text": "Do you size up after a win, or does that scare you?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "062",
+    "category": "question",
+    "text": "What's the longest you've gone without checking the market on a day off?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "063",
+    "category": "question",
+    "text": "Do you actually follow your trading plan, or just the parts that feel good?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "064",
+    "category": "question",
+    "text": "What's one indicator you stopped trusting completely?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "065",
+    "category": "question",
+    "text": "How many screens do you actually need to trade well?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "066",
+    "category": "question",
+    "text": "Do you trade news events, or sit them out entirely?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "067",
+    "category": "question",
+    "text": "What's harder for you, cutting a loser or letting a winner run?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "068",
+    "category": "question",
+    "text": "Do you journal your emotions during a trade, not just the numbers?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "069",
+    "category": "question",
+    "text": "What made you finally stop revenge trading, if you have?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "070",
+    "category": "question",
+    "text": "Do you trust backtested results as much as live results?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "071",
+    "category": "question",
+    "text": "What's a trading habit you picked up from someone you now disagree with?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "072",
+    "category": "question",
+    "text": "Do you trade less when the market is calm, or force setups anyway?",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "073",
+    "category": "fill_blank",
+    "text": "The trading mistake I keep making no matter what: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "074",
+    "category": "fill_blank",
+    "text": "The one rule I never break, even when I want to: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "075",
+    "category": "fill_blank",
+    "text": "My biggest account drawdown ever: ___%",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "076",
+    "category": "fill_blank",
+    "text": "The market condition that gets me every time: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "077",
+    "category": "fill_blank",
+    "text": "The indicator I secretly still use even though I say I don't need it: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "078",
+    "category": "fill_blank",
+    "text": "My win rate on setups I actually planned versus impulse trades: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "079",
+    "category": "fill_blank",
+    "text": "The hardest lesson the market ever taught me: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "080",
+    "category": "fill_blank",
+    "text": "The amount of time I spent losing money before I turned profitable: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "081",
+    "category": "fill_blank",
+    "text": "The one trade I still think about, years later: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "082",
+    "category": "fill_blank",
+    "text": "My real risk tolerance, not the one I tell people: ___",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "083",
+    "category": "confession",
+    "text": "I've closed a winning trade early just to feel the relief of locking in profit.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "084",
+    "category": "confession",
+    "text": "I still check my P&L more times a day than I'd like to admit.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "085",
+    "category": "confession",
+    "text": "I've lied to friends about how much I lost on a bad trade.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "086",
+    "category": "confession",
+    "text": "Some weeks I trade just to feel like I'm doing something, not because there's a setup.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "087",
+    "category": "confession",
+    "text": "I've moved a stop loss further away and told myself it was a strategy adjustment.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "088",
+    "category": "confession",
+    "text": "I get more anxious watching a winning trade than a losing one.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "089",
+    "category": "confession",
+    "text": "I've copied someone else's trade idea without understanding why it worked.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "090",
+    "category": "confession",
+    "text": "There are days I trade angry, and I always regret it.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "091",
+    "category": "confession",
+    "text": "I've deleted my trading journal after a bad month so I wouldn't have to look at it.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "092",
+    "category": "confession",
+    "text": "I still compare my account to people online, even though I know I shouldn't.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "093",
+    "category": "story",
+    "text": "Spent six months only trading one setup. Boring on purpose. Account finally stopped bleeding.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "094",
+    "category": "story",
+    "text": "Had my best month right after I stopped watching the news every morning.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "095",
+    "category": "story",
+    "text": "Lost more money trying to make back a loss in one day than the original loss itself.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "096",
+    "category": "story",
+    "text": "Took a full month off trading after a bad streak. Came back with a completely different mindset.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "097",
+    "category": "story",
+    "text": "My first profitable year came after I cut my position size in half.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "098",
+    "category": "story",
+    "text": "Started writing down why I entered a trade before I entered it. Everything changed.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "099",
+    "category": "story",
+    "text": "Watched a mentor blow an account live and learned more from that than any course.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "100",
+    "category": "story",
+    "text": "Went from five setups a day to one. Results got better, not worse.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "101",
+    "category": "contrarian",
+    "text": "Cutting losses fast isn't discipline if you're also cutting winners fast out of fear.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "102",
+    "category": "contrarian",
+    "text": "Most people asking for a mentor really just want someone to blame later.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "103",
+    "category": "contrarian",
+    "text": "A trading community can teach you patterns faster than it teaches you patience.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "104",
+    "category": "contrarian",
+    "text": "Backtesting proves a strategy worked. It doesn't prove you'll follow it live.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "105",
+    "category": "contrarian",
+    "text": "The traders who post the least about their wins are usually the ones actually winning.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "106",
+    "category": "contrarian",
+    "text": "Consistency gets praised more than it gets practiced.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "107",
+    "category": "contrarian",
+    "text": "Waiting for the perfect setup is often just fear wearing a strategy costume.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "108",
+    "category": "contrarian",
+    "text": "Most trading advice online is written by people selling something, not trading something.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "109",
+    "category": "myth",
+    "text": "More indicators on your chart doesn't mean more clarity. Usually it means less.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "110",
+    "category": "myth",
+    "text": "A high win rate doesn't mean a good strategy if your losers are bigger than your winners.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "111",
+    "category": "myth",
+    "text": "Trading full time isn't freedom if you're still watching every candle out of fear.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
+  },
+  {
+    "id": "112",
+    "category": "myth",
+    "text": "Being right about the market and making money from it are two different skills.",
+    "posted": false,
+    "postedAt": null,
+    "threadId": null
   }
 ]
