@@ -491,9 +491,9 @@
     "id": "062",
     "category": "question",
     "text": "What's the longest you've gone without checking the market on a day off?",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-27T15:15:53.434Z",
+    "threadId": "18115213792938329"
   },
   {
     "id": "063",
