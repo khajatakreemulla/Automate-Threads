@@ -475,9 +475,9 @@
     "id": "060",
     "category": "question",
     "text": "What time of day are your trades the sloppiest?",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-27T07:54:09.964Z",
+    "threadId": "18201178414366456"
   },
   {
     "id": "061",
