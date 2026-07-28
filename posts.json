@@ -555,9 +555,9 @@
     "id": "070",
     "category": "question",
     "text": "Do you trust backtested results as much as live results?",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-28T21:33:17.631Z",
+    "threadId": "17900314506517416"
   },
   {
     "id": "071",
