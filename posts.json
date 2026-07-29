@@ -603,9 +603,9 @@
     "id": "076",
     "category": "fill_blank",
     "text": "The market condition that gets me every time: ___",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-29T21:13:41.573Z",
+    "threadId": "18101218985522500"
   },
   {
     "id": "077",
