@@ -635,9 +635,9 @@
     "id": "080",
     "category": "fill_blank",
     "text": "The amount of time I spent losing money before I turned profitable: ___",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-30T14:34:20.986Z",
+    "threadId": "17871921732629055"
   },
   {
     "id": "081",
