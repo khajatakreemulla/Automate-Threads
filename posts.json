@@ -651,9 +651,9 @@
     "id": "082",
     "category": "fill_blank",
     "text": "My real risk tolerance, not the one I tell people: ___",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-30T21:34:00.004Z",
+    "threadId": "17995081214806688"
   },
   {
     "id": "083",
