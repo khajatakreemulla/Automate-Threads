@@ -659,9 +659,9 @@
     "id": "083",
     "category": "confession",
     "text": "I've closed a winning trade early just to feel the relief of locking in profit.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-07-31T03:52:32.478Z",
+    "threadId": "18080436869289890"
   },
   {
     "id": "084",
