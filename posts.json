@@ -707,9 +707,9 @@
     "id": "089",
     "category": "confession",
     "text": "I've copied someone else's trade idea without understanding why it worked.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-08-01T03:52:47.376Z",
+    "threadId": "18485222242102455"
   },
   {
     "id": "090",
