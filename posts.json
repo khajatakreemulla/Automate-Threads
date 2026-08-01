@@ -723,9 +723,9 @@
     "id": "091",
     "category": "confession",
     "text": "I've deleted my trading journal after a bad month so I wouldn't have to look at it.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-08-01T10:12:06.589Z",
+    "threadId": "18142994173477066"
   },
   {
     "id": "092",
