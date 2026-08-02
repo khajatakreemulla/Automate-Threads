@@ -755,9 +755,9 @@
     "id": "095",
     "category": "story",
     "text": "Lost more money trying to make back a loss in one day than the original loss itself.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-08-02T03:55:20.102Z",
+    "threadId": "18029994476837605"
   },
   {
     "id": "096",
