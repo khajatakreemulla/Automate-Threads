@@ -779,9 +779,9 @@
     "id": "098",
     "category": "story",
     "text": "Started writing down why I entered a trade before I entered it. Everything changed.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-08-02T13:58:28.592Z",
+    "threadId": "17946815217251605"
   },
   {
     "id": "099",
