@@ -787,9 +787,9 @@
     "id": "099",
     "category": "story",
     "text": "Watched a mentor blow an account live and learned more from that than any course.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-08-02T17:18:00.468Z",
+    "threadId": "18089292335401891"
   },
   {
     "id": "100",
