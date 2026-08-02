@@ -795,9 +795,9 @@
     "id": "100",
     "category": "story",
     "text": "Went from five setups a day to one. Results got better, not worse.",
-    "posted": false,
-    "postedAt": null,
-    "threadId": null
+    "posted": true,
+    "postedAt": "2026-08-02T21:11:39.616Z",
+    "threadId": "18094372886057205"
   },
   {
     "id": "101",
